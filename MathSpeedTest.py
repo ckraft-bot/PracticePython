@@ -1,6 +1,6 @@
 import random
 import time
-
+# Note: global constants naver change throughout and is stypically all caps for the naming convention
 OPERATORS = ["+", "-", "*"]
 MIN_OPERAND = 3
 MAX_OPERAND = 12
